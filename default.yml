@@ -113,7 +113,8 @@ homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
   - discord
   - google-cloud-sdk
-  - mono-mdk-for-visual-studio	
+  - mono-mdk-for-visual-studio
+  - homebrew/cask-drivers/logitech-options
   - tunnelblick
   - visual-studio-code
   - docker
